@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		CBF489112E954A59007EFA2F /* RickAndMorty2025.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RickAndMorty2025.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CBF489112E954A59007EFA2F /* RickAndMorty2025.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = RickAndMorty2025.app; path = "/Users/lukasalipur/Documents/Tutorials UIKit/RickAndMorty2025/build/Debug-iphoneos/RickAndMorty2025.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		CBF489232E954A5B007EFA2F /* Exceptions for "RickAndMorty2025" folder in "RickAndMorty2025" target */ = {
+		CBF489512E954D0A007EFA2F /* Exceptions for "RickAndMorty2025" folder in "RickAndMorty2025" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		CBF489132E954A59007EFA2F /* RickAndMorty2025 */ = {
+		CBF4894B2E954D0A007EFA2F /* RickAndMorty2025 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				CBF489232E954A5B007EFA2F /* Exceptions for "RickAndMorty2025" folder in "RickAndMorty2025" target */,
+				CBF489512E954D0A007EFA2F /* Exceptions for "RickAndMorty2025" folder in "RickAndMorty2025" target */,
 			);
 			path = RickAndMorty2025;
 			sourceTree = "<group>";
@@ -45,17 +45,8 @@
 		CBF489082E954A59007EFA2F = {
 			isa = PBXGroup;
 			children = (
-				CBF489132E954A59007EFA2F /* RickAndMorty2025 */,
-				CBF489122E954A59007EFA2F /* Products */,
+				CBF4894B2E954D0A007EFA2F /* RickAndMorty2025 */,
 			);
-			sourceTree = "<group>";
-		};
-		CBF489122E954A59007EFA2F /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				CBF489112E954A59007EFA2F /* RickAndMorty2025.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,7 +65,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				CBF489132E954A59007EFA2F /* RickAndMorty2025 */,
+				CBF4894B2E954D0A007EFA2F /* RickAndMorty2025 */,
 			);
 			name = RickAndMorty2025;
 			packageProductDependencies = (
@@ -108,7 +99,7 @@
 			mainGroup = CBF489082E954A59007EFA2F;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = CBF489122E954A59007EFA2F /* Products */;
+			productRefGroup = CBF489082E954A59007EFA2F;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -150,7 +141,6 @@
 				INFOPLIST_FILE = RickAndMorty2025/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -178,7 +168,6 @@
 				INFOPLIST_FILE = RickAndMorty2025/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
