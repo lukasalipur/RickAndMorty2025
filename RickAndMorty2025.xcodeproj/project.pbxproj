@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		CBF489112E954A59007EFA2F /* RickAndMorty2025.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = RickAndMorty2025.app; path = "/Users/lukasalipur/Documents/Tutorials UIKit/RickAndMorty2025/build/Debug-iphoneos/RickAndMorty2025.app"; sourceTree = "<absolute>"; };
+		CBF489722E96A4EE007EFA2F /* RickAndMorty2025.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RickAndMorty2025.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -46,6 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				CBF4894B2E954D0A007EFA2F /* RickAndMorty2025 */,
+				CBF489722E96A4EE007EFA2F /* RickAndMorty2025.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -71,7 +72,7 @@
 			packageProductDependencies = (
 			);
 			productName = RickAndMorty2025;
-			productReference = CBF489112E954A59007EFA2F /* RickAndMorty2025.app */;
+			productReference = CBF489722E96A4EE007EFA2F /* RickAndMorty2025.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
